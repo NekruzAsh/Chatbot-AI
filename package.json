@@ -9,9 +9,12 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@ai-sdk/amazon-bedrock": "^0.0.12",
+    "@aws-sdk/client-bedrock-runtime": "^3.624.0",
     "@emotion/react": "^11.13.0",
     "@emotion/styled": "^11.13.0",
     "@mui/material": "^5.16.6",
+    "ai": "^3.3.3",
     "next": "14.2.5",
     "openai": "^4.55.1",
     "react": "^18",
